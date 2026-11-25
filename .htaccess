@@ -1,0 +1,64 @@
+# ─────────────────────────────────────────────────────────
+# Crystal RV — Apache .htaccess
+# crystalrv.com | Mountain View, CA
+# ─────────────────────────────────────────────────────────
+
+# ── Force HTTPS ──────────────────────────────────────────
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# ── Remove www (canonical: non-www) ──────────────────────
+RewriteCond %{HTTP_HOST} ^www\.crystalrv\.com [NC]
+RewriteRule ^(.*)$ https://crystalrv.com/$1 [L,R=301]
+
+# ── Custom 404 page (real 404 status) ───────────────────
+ErrorDocument 404 /404.html
+
+# ── Retired pages → 301 (v30, 2026-11-25) ───────────────
+RewriteRule ^rv-rental-world-cup-2026\.html$ /rv-rental-events.html [R=301,L]
+RewriteRule ^blog/world-cup-2026-rv-housing\.html$ /rv-rental-events.html [R=301,L]
+RewriteRule ^rv-rental-(campbell|cupertino|los-gatos|saratoga|milpitas)\.html$ /rv-rental-south-bay.html#$1 [R=301,NE,L]
+RewriteRule ^rv-rental-(los-altos|menlo-park|redwood-city)\.html$ /rv-rental-peninsula.html#$1 [R=301,NE,L]
+RewriteRule ^rv-rental-berkeley\.html$ /rv-rental-oakland.html#berkeley [R=301,NE,L]
+RewriteRule ^camper-van-rental-san-jose\.html$ /rv-rental-san-jose.html [R=301,L]
+RewriteRule ^sitemp\.xml$ /sitemap.xml [R=301,L]
+
+# ── Block sensitive files from public access ──────────────
+<FilesMatch "(\.env|config\.json|\.gitignore|SECURITY\.md|LICENSE|README\.md|config\.example\.json|DEPLOY-.*\.md|\.zip)$">
+Order allow,deny
+Deny from all
+</FilesMatch>
+
+# ── Gzip compression ──────────────────────────────────────
+<IfModule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/html text/css application/javascript application/json text/xml image/svg+xml
+</IfModule>
+
+# ── Browser caching ───────────────────────────────────────
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType image/jpeg "access plus 1 year"
+ExpiresByType image/png "access plus 1 year"
+ExpiresByType image/webp "access plus 1 year"
+ExpiresByType image/svg+xml "access plus 1 year"
+ExpiresByType text/css "access plus 1 month"
+ExpiresByType application/javascript "access plus 1 month"
+ExpiresByType text/html "access plus 1 week"
+</IfModule>
+
+# ── Security headers ──────────────────────────────────────
+<IfModule mod_headers.c>
+Header always set X-Content-Type-Options "nosniff"
+Header always set X-Frame-Options "SAMEORIGIN"
+Header always set X-XSS-Protection "1; mode=block"
+Header always set Referrer-Policy "strict-origin-when-cross-origin"
+Header always set Permissions-Policy "geolocation=(), microphone=(), camera=()"
+# CSP — allows Google Fonts, Maps, Analytics, Wheelbase/Outdoorsy widget, and Formspree
+# Wheelbase (Outdoorsy) uses multiple CloudFront distributions + API domains for
+# the booking widget, vehicle data, images, checkout, and availability calendar.
+Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com https://maps.googleapis.com https://d2toxav8qvoos4.cloudfront.net https://d3cuf6g1arkgx6.cloudfront.net https://cdn.wheelbaseapp.com https://www.statcounter.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://d2toxav8qvoos4.cloudfront.net https://d3cuf6g1arkgx6.cloudfront.net; font-src 'self' https://fonts.gstatic.com https://d2toxav8qvoos4.cloudfront.net https://d3cuf6g1arkgx6.cloudfront.net; img-src 'self' data: blob: https:; frame-src 'self' https://maps.google.com https://www.google.com https://cdn.wheelbaseapp.com https://d2toxav8qvoos4.cloudfront.net https://d3cuf6g1arkgx6.cloudfront.net https://*.outdoorsy.com https://*.outdoorsy.co https://*.wheelbasepro.com https://www.youtube.com https://www.youtube-nocookie.com; connect-src 'self' https://formspree.io https://maps.googleapis.com https://www.google-analytics.com https://d2toxav8qvoos4.cloudfront.net https://d3cuf6g1arkgx6.cloudfront.net https://*.outdoorsy.com https://*.outdoorsy.co https://*.wheelbasepro.com https://*.cloudfront.net https://*.statcounter.com https://*.amazonaws.com https://*.cloudinary.com;"
+</IfModule>
+
+# ── Prevent directory listing ─────────────────────────────
+Options -Indexes

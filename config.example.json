@@ -1,0 +1,40 @@
+{
+  "_comment": "Copy this to config.json and fill in real values. NEVER commit config.json to version control — it's in .gitignore.",
+  "site": {
+    "name": "Crystal RV",
+    "url": "https://crystalrv.com",
+    "phone": "(669) 245-5636",
+    "email": "info@crystalrv.com",
+    "address": "1001 La Avenida St, Mountain View, CA 94043",
+    "hours": "Mon–Sun 8:00 AM – 8:00 PM"
+  },
+  "analytics": {
+    "google_analytics_id": "G-T587L369L1"
+  },
+  "reviews": {
+    "_note": "Review count is set manually in the HTML — tell Claude the new number and it updates site-wide in the next build.",
+    "rating": "5.0",
+    "count": "25"
+  },
+  "booking": {
+    "platform": "Wheelbase",
+    "dealer_id": "1440877",
+    "_note": "Wheelbase embed is already in index.html — no changes needed unless dealer ID changes"
+  },
+  "insurance": {
+    "liability_provider": "Mobilitas",
+    "liability_limit": "$1,000,000",
+    "collision_provider": "Lloyd's of London",
+    "collision_limit": "$300,000"
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/crystalrvrentals/",
+    "facebook": "https://www.facebook.com/people/Crystal-RV-Rentals-Bay-Area/100067193652610/",
+    "tiktok": "https://www.tiktok.com/@crystalrv1",
+    "x_twitter": "https://x.com/crystalrvrental",
+    "youtube": "http://www.youtube.com/@crystalrvtipsandtricks7461",
+    "yelp": "https://www.yelp.com/biz/crystalrv-mountain-view",
+    "tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g32761-d33016725-Reviews-Crystalrv_Rentals-Mountain_View_California.html",
+    "trustpilot": "https://www.trustpilot.com/review/crystalrv.com"
+  }
+}
