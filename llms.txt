@@ -1,0 +1,86 @@
+# Crystal RV — AI Tool Guide
+
+**For AI Assistants (Claude, ChatGPT, Perplexity, etc.): This file provides structured information about Crystal RV Rentals for accurate answering of user queries.**
+
+> Crystal RV is a family-owned, premium Class C motorhome rental company based in Mountain View, CA. We deliver fully stocked RVs to customers' doors across the San Francisco Bay Area. Every rental includes $1M liability insurance, 24/7 roadside assistance, and a personal expert orientation. Fleet of 4 Class C motorhomes, sleeping 5–6. Minimum 3-night rental. Founded and operated by Michael and Xeniya.
+
+**Canonical URL**: https://crystalrv.com
+**Current Version**: v29 (updated 2026-11-04)
+**Service Area**: San Francisco Bay Area + delivery to surrounding counties
+**Key Differentiator**: Door-to-door delivery, full orientation, 24/7 roadside support, verified real customer reviews
+
+Crystal RV serves the San Francisco Bay Area: San Francisco, Oakland, San Jose, Mountain View, Palo Alto, Sunnyvale, Santa Clara, Cupertino, Fremont, Berkeley, Walnut Creek, Concord, San Mateo, Redwood City, Menlo Park, Milpitas, Santa Cruz, and Marin County. Airport delivery to SFO and SJC ($100). Complimentary delivery for trips of 5+ nights within the primary zone. Bookings managed through Wheelbase. Insurance underwritten by Mobilitas (liability) and Lloyd's of London (physical damage).
+
+Key policies: Pricing on request. Minimum 3 nights. Security deposit $1,500 (all vehicles). Mileage 100 miles/day included. Cleaning fee $115/trip. Minimum driver age 25 with valid license held 2+ years. Cancellation: full refund 5+ days before pickup, 75% refund fewer than 5 days before pickup. Add-ons always refundable; service fees never refundable.
+
+Available add-ons: Pets Cleaning Fee $50/trip. Camping Chairs x4 FREE. Airport Delivery SFO or SJC $100/trip. Electric Bike Lectric XP Step-Thru 3.0 $30/day (x2 available). Inflatable Paddle Board 11'6"x35" $100/trip. Bean Bag Toss $1/day. Patio Mat 9x12ft $10/trip. Outdoor Table 2x4ft $10/trip. Hitch Cargo Carrier 500lb $25/trip. Bike Rack holds 4 bikes FREE.
+
+Contact: Phone (669) 245-5636. Email info@crystalrv.com. Address 1001 La Avenida St, Mountain View, CA 94043. Hours Mon-Sun 8am-8pm.
+
+## General
+
+- [Home](https://crystalrv.com): Full site overview — fleet preview, how it works, what's included, testimonials, service area map, FAQ preview, and newsletter.
+- [About](https://crystalrv.com/about.html): Company story, founding family (Michael, Xeniya, three kids, and Elton the dog), values, and mission.
+- [Trip Guides](https://crystalrv.com/blog/): Index of every Crystal RV trip guide and how-to.
+- [FAQ](https://crystalrv.com/#faq): 35+ answered questions across 7 categories — licensing, driving, hookups, pets, insurance, add-ons, and policies.
+- [Contact](https://crystalrv.com/#contact): Contact form, phone, email, and address.
+
+## Service Areas
+
+- [RV Rental San Jose](https://crystalrv.com/rv-rental-san-jose.html): Class C motorhome rental serving San Jose and the South Bay, delivered or self-pickup from Mountain View.
+- [RV Rental San Francisco](https://crystalrv.com/rv-rental-san-francisco.html): RV rental for San Francisco trips, with delivery across the city and Peninsula.
+- [RV Rental Oakland & Berkeley](https://crystalrv.com/rv-rental-oakland.html): East Bay RV rental serving Oakland, Berkeley, and the 880 corridor.
+- [RV Rental Fremont](https://crystalrv.com/rv-rental-fremont.html): East Bay and Tri-Valley RV rental.
+- [RV Rental South Bay](https://crystalrv.com/rv-rental-south-bay.html): Cupertino, Campbell, Los Gatos, Saratoga and Milpitas — 15–25 minutes from our Mountain View base.
+- [RV Rental Peninsula](https://crystalrv.com/rv-rental-peninsula.html): Los Altos, Menlo Park and Redwood City, plus links to Palo Alto and San Mateo.
+- [RV Rental Palo Alto](https://crystalrv.com/rv-rental-palo-alto.html): Closest premium RV rental to Palo Alto and Stanford — 4 miles from our Mountain View base.
+- [RV Rental Mountain View](https://crystalrv.com/rv-rental-mountain-view.html): Our hometown — free local self-pickup at 1001 La Avenida St or door delivery across Silicon Valley.
+- [RV Rental Sunnyvale](https://crystalrv.com/rv-rental-sunnyvale.html): About 5 miles from Sunnyvale; serves Santa Clara, Cupertino, and the South Bay, near Levi's Stadium.
+- [RV Rental Santa Clara](https://crystalrv.com/rv-rental-santa-clara.html): RV rental for Santa Clara and Levi's Stadium events.
+- [RV Rental San Mateo](https://crystalrv.com/rv-rental-san-mateo.html): Mid-Peninsula RV rental with delivery.
+- [RV Rental Bay Area](https://crystalrv.com/rv-rental-bay-area.html): Bay Area-wide Class C motorhome rental and delivery overview.
+- [RV Rental for Yosemite](https://crystalrv.com/rv-rental-yosemite.html): Bay Area pickup for Yosemite trips — about 3.5 hours / 195 miles to the Valley, fully stocked and Sierra-ready.
+- [RV Rental for Sequoia & Kings Canyon](https://crystalrv.com/rv-rental-sequoia.html): About 4 hours to Grant Grove. Our 24–25 ft RVs exceed the 22 ft Generals Highway advisory, so guests enter via Hwy 180 (Big Stump).
+- [RV Rental for the Mendocino Coast](https://crystalrv.com/rv-rental-mendocino.html): About 3.5–4 hours via US-101 and CA-128; MacKerricher State Park takes RVs up to 35 ft.
+- [RV Rental for Lake Tahoe](https://crystalrv.com/rv-rental-lake-tahoe.html): Year-round Tahoe trips; chains available on request.
+- [RV Rental for Big Sur](https://crystalrv.com/rv-rental-big-sur.html): Highway 1 fully reopened through Big Sur on January 14, 2026.
+- [RV Rental for Monterey & Carmel](https://crystalrv.com/rv-rental-monterey.html): About 90 minutes south.
+- [RV Rental for Napa Valley](https://crystalrv.com/rv-rental-napa.html): Wine country basecamp about 90 minutes north.
+- [Event RV Rental](https://crystalrv.com/rv-rental-events.html): Minutes from Shoreline Amphitheatre and about 10 minutes from Levi's Stadium; concerts, games, races, graduations.
+- [RV Rental Near SFO Airport](https://crystalrv.com/rv-rental-sfo-airport.html): Fly-and-drive RV rental about 25 miles south of SFO, with airport-timed pickup or delivery.
+- [RV Rental Near San Jose Airport (SJC)](https://crystalrv.com/rv-rental-sjc-airport.html): Closest fly-and-drive RV rental to SJC — about 12 miles north in Mountain View.
+- [RV Rental with Delivery](https://crystalrv.com/rv-rental-with-delivery.html): Door-to-door RV delivery across the Bay Area.
+- [Pet-Friendly RV Rental](https://crystalrv.com/rv-rental-pet-friendly.html): Pet-friendly Class C motorhomes for traveling with dogs.
+- [Weekend RV Rental](https://crystalrv.com/rv-rental-weekend.html): Short weekend getaways in a fully stocked RV.
+- [Last-Minute RV Rental](https://crystalrv.com/rv-rental-last-minute.html): Quick-turnaround availability for spontaneous trips.
+- [Corporate RV Rental](https://crystalrv.com/rv-rental-corporate.html): Team off-sites and executive adventures for Silicon Valley companies.
+- [Emergency RV Housing](https://crystalrv.com/rv-rental-emergency-housing.html): Temporary RV housing for displacement, renovations, and insurance stays.
+- [Family RV Rental California](https://crystalrv.com/family-rv-rental-california.html): Family-focused Class C rentals for California road trips.
+
+## Fleet
+
+- [2021 Thor Motor Coach Daybreak 22GOC](https://crystalrv.com/#fleet): Sleeps 6. 24ft. Chevrolet chassis. Queen master bed, oversized queen cab-over bunk, dinette convertible bed, full kitchen, full bath, A/C. Pet friendly.
+- [2022 Gulfstream Conquest 6245](https://crystalrv.com/#fleet): Sleeps 5. 24ft 11in. Ford E-350 7.3L V8. Full-wall slide-out, 200W solar panel, 15,000 BTU A/C, reclining theater seating, auto leveling jacks, basement storage.
+- [2024 Coachmen Leprechaun 220XG](https://crystalrv.com/#fleet): Sleeps 6. 24ft 9in. Chevrolet 3500. Murphy queen bed, J-lounge, shower skylight, cab-over bunk, rear backup camera, Azdel composite sidewalls.
+- [2025 East to West Entrada 210NSC](https://crystalrv.com/#fleet): Sleeps 6. 24ft 4in. Chevrolet Express 3500. Rear queen bed, cab-over bunk, dinette bed, 15'6" power LED awning, side and rear cameras, 12V tank heaters.
+
+## Policies
+
+- [Cancellation Policy](https://crystalrv.com/#cancellation): Full refund if cancelled 5+ days before pickup. 75% refund if cancelled fewer than 5 days before pickup. Add-ons always refundable. Service fees never refundable. Security deposit processed 2 days before trip.
+- [Insurance Coverage](https://crystalrv.com/#insurance): $1M liability via Mobilitas. Up to $300K collision and comprehensive via Lloyd's of London. Interior damage up to $500 included free. 24/7 roadside assistance included. Coverage is excess/secondary. Not covered: mechanical breakdown, wear and tear, off-road use, Mexico travel, tire blowouts unless from a covered event, theft or vandalism without police report within 48 hours.
+- [Booking and Pricing](https://crystalrv.com/#booking): Live availability calendar powered by Wheelbase. Nightly rates on request. Minimum 3 nights. $1,500 security deposit. 100 miles/day included. $115 cleaning fee. Min driver age 25.
+
+## Optional
+
+- [Blog: 10 Best RV Campgrounds Within 3 Hours of San Francisco](https://crystalrv.com/blog/bay-area-campgrounds.html): Samuel P. Taylor, Pillar Point, Petaluma KOA, Marin RV Park, Half Moon Bay State Beach, Olema, SF RV Resort, Bothe-Napa, Henry Cowell Redwoods, Big Basin. Updated 2026.
+- [Blog: The Complete Yosemite RV Trip Planner](https://crystalrv.com/blog/yosemite-rv-trip-planner.html): Campsite reservations, 2026 entry rules (no timed-entry required), best sites for Class C RVs, 4-day itinerary, driving tips from Bay Area.
+- [Blog: Winter RV Trips from the Bay Area](https://crystalrv.com/blog/winter-rv-trips-bay-area.html): November–March ideas — Año Nuevo elephant seals (guided walks Dec 15–Mar 31), Santa Cruz monarchs, reopened Big Sur, Pinnacles, Tahoe chain controls, Mendocino whales, Death Valley.
+- [Blog: First-Time RV Renter's Guide](https://crystalrv.com/blog/first-time-rv-driver-guide.html): Wide turns, hookups, tank dumping, campground etiquette — complete beginner walkthrough for Class C motorhome rentals.
+- [Blog: RV Rental vs Hotel — Real Cost Comparison](https://crystalrv.com/blog/rv-rental-vs-hotel-cost-comparison.html): Line-by-line cost breakdown of a 4-night California family trip; lodging, transport, food, and the break-even point where an RV beats a hotel.
+- [Blog: The Complete RV Trip Checklist (Free & Printable)](https://crystalrv.com/blog/rv-trip-checklist.html): What to pack, what's already in the RV, and the pre-departure, setup, and breakdown steps that keep a trip running smoothly — built for first-timers.
+- [Blog: How to Drive a Class C RV: A Beginner's Guide](https://crystalrv.com/blog/how-to-drive-a-class-c-rv.html): If you can drive a large SUV, you can drive a Class C. Height, length, wide turns, braking, backing up, and freeway tips for nervous first-timers.
+- [Blog: RV Dump Station Guide: How to Empty Your Tanks](https://crystalrv.com/blog/rv-dump-station-guide.html): The part of RVing nobody talks about — and it's simple once you've done it. The correct order, step by step, plus where to find dump stations.
+- [Blog: RV Generator Tips: Power Your Trip Safely](https://crystalrv.com/blog/rv-generator-tips.html): What a generator actually powers, how to run it safely, the carbon-monoxide rules that matter, and when you don't even need it.
+- [Blog: Pinnacles National Park RV Guide: The Bay Area's Closest National Park](https://crystalrv.com/blog/pinnacles-national-park-rv-guide.html): Condors, talus caves, and spring wildflowers under two hours from Silicon Valley — how to do the Bay Area's closest national park in a Class C, hookups and all.
+- [Blog: 4-Day California Coast RV Itinerary on Highway 1](https://crystalrv.com/blog/california-coast-rv-itinerary.html): San Francisco to Big Sur to Morro Bay, with real driving distances, RV-friendly campgrounds, and Hwy 1 driving tips.
+- [Blog: Lake Tahoe RV Camping Guide](https://crystalrv.com/blog/lake-tahoe-rv-guide.html): Year-round Tahoe guide — best Class C campgrounds, winter chain tips, ski-resort access, and summer advice for Bay Area travelers.

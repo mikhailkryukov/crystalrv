@@ -1,0 +1,11 @@
+# Crystal RV — robots.txt
+# Updated: 2026-11-04
+# All crawlers, including AI/LLM crawlers (ClaudeBot, GPTBot, PerplexityBot,
+# Google-Extended, Bingbot), may crawl the public site. See /llms.txt.
+
+User-agent: *
+Allow: /
+Disallow: /*.backup$
+Disallow: /*.tmp$
+
+Sitemap: https://crystalrv.com/sitemap.xml
