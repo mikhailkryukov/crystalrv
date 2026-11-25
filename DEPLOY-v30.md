@@ -60,5 +60,5 @@ These pages are kept and unchanged apart from links: San Francisco, San Jose, Oa
 New `404.html` (noindex), with links to service areas, fleet, trip guides and phone.
 
 ## Not changed — please check
-- Pages still say "5.0★ Google rating" and "Superhost on RVezy" in visible text. The public RVezy profile showed no Superhost badge on Nov 23. If you've lost the badge, tell me and I'll remove the claim in v31.
+- 2026-11-25: removed the "Superhost on RVezy" claim from all pages (owner confirmed it should not be shown).
 - The San Francisco page still ranks around position 46. The next step is a rewrite with SF-specific pickup and delivery logistics.
